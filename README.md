@@ -3,9 +3,6 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 
 Clicking "Create a Playlist" will display an existing playlist. In a real-world scenario, this would create a new playlist, but for the purposes of this assignment, we’re assuming the playlist is already created. 
 
